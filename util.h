@@ -1,0 +1,1 @@
+bool setnonblocking( int sock );
